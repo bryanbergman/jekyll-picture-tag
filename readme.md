@@ -1,5 +1,7 @@
 # Jekyll Picture Tag
 
+------------------------
+
 **Easy responsive images for Jekyll.**
 
 Jekyll Picture Tag is a liquid tag that adds responsive images to your [Jekyll](http://jekyllrb.com) static site. It follows the proposed [picture element](http://picture.responsiveimages.org/) pattern, and polyfills current browsers with [Picturefill](https://github.com/scottjehl/picturefill). Jekyll Picture Tag automatically creates resized source images, is fully configurable, and covers all use cases — including art direction and resolution switching — with a little YAML configuration and a simple template tag.
